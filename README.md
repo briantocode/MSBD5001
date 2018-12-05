@@ -1,8 +1,9 @@
 # MSBD5001
 
 Requirements.
-1.  load test.csv 
-2.  install the following package
+1.  data = test.csv 
+2.  language = pythoon 3.x
+2.  package used
       - sklearn
       - numpy
       - pandas
